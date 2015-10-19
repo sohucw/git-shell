@@ -225,5 +225,5 @@ gulp.task('watchcss', function () {
             .pipe(gulp.dest(paths.distDir))
     })
 })
-
+// 注册default 任务
 gulp.task('default', ['watchcss']);
