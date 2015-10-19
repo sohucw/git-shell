@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is for study gulp project !",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "sohucw",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^1.2.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rev-append": "^0.1.6",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.6",
+    "gulp-watch-path": "^0.1.0",
+    "stream-combiner2": "^1.0.2"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["demo.css"],"names":[],"mappings":"AAAA,MAGA,GAFI,QAAA,aAAA,QAAA,YAAA,QAAA","file":"demo.css","sourcesContent":[".demo{\n    display: flex;\n}\n.t{\n    display: flex;\n}"],"sourceRoot":"/source/"}
